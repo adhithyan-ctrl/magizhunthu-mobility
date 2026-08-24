@@ -7,7 +7,7 @@ export default function Footer() {
         <div className="grid gap-10 md:grid-cols-3">
           <div>
             <div className="font-display text-xl tracking-wide text-cream">
-              MAGIZHUNTHU <span className="text-gold">AUTOS &amp; MOBILITY</span>
+              MAGIZHUNTHU <span className="text-gold">MOBILITY</span>
             </div>
             <p className="mt-3 font-body text-sm text-cream/60">
               Premium chauffeur-driven Innova Crysta taxi for local, outstation
