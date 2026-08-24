@@ -9,7 +9,7 @@ export default function Header() {
         <Link href="/" className="flex items-center gap-3 group">
           <Image
             src="/images/logo.jpeg"
-            alt="Magizhunthu Autos & Mobility — Innova Crysta Taxi Chennai logo"
+            alt="Magizhunthu Mobility — Innova Crysta Taxi Chennai logo"
             width={40}
             height={40}
             className="h-10 w-10 rounded-md object-cover"
@@ -20,7 +20,7 @@ export default function Header() {
               MAGIZHUNTHU
             </div>
             <div className="-mt-1 text-[10px] tracking-[0.25em] text-gold">
-              AUTOS &amp; MOBILITY
+              MOBILITY
             </div>
           </div>
         </Link>
