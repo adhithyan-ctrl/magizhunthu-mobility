@@ -19,7 +19,7 @@ export default function Hero() {
           <div>
             <div className="inline-flex items-center gap-2 rounded-full border border-gold/40 bg-gold/10 px-4 py-1.5 font-body text-xs tracking-wide text-gold">
               <span aria-hidden>★★★★★</span>
-              {RATING.value.toFixed(1)} rated · {RATING.count} Google Reviews
+              {RATING.value.toFixed(1)} rated · Google Reviews
             </div>
 
             <h1 className="mt-6 font-display text-4xl uppercase leading-[1.05] text-cream md:text-6xl">
