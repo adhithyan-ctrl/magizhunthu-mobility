@@ -53,7 +53,7 @@ export default function Footer() {
         <div className="route-divider mt-10 mb-6" />
 
         <p className="text-center font-body text-xs text-cream/40">
-          © {new Date().getFullYear()} Magizhunthu Autos &amp; Mobility — Innova
+          © {new Date().getFullYear()} Magizhunthu Mobility — Innova
           Crysta Taxi, Chennai. Comfort. Reliability. Every Time.
         </p>
       </div>
