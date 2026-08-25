@@ -20,7 +20,7 @@ export default function Header() {
       <div className="mx-auto flex max-w-6xl items-center justify-between px-5 py-3">
         <Link href="/" className="flex items-center gap-3 group" onClick={() => setOpen(false)}>
           <Image
-            src="/images/logo-icon.png"
+            src="/images/logo.jpg"
             alt="Magizhunthu Mobility — Innova Crysta Taxi Chennai logo"
             width={40}
             height={40}
