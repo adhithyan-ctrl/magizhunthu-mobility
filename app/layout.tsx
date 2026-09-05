@@ -12,8 +12,8 @@ import Footer from "@/components/Footer";
 export const metadata: Metadata = {
   metadataBase: new URL("https://www.magizhunthumobility.com"),
   title: {
-    default: "Innova Crysta Taxi in Chennai | Magizhunthu Autos & Mobility",
-    template: "%s | Magizhunthu Autos & Mobility",
+    default: "Innova Crysta Taxi in Chennai | Magizhunthu Mobility",
+    template: "%s | Magizhunthu Mobility",
   },
   description:
     "Chennai's 5-star rated Innova Crysta taxi for local trips, outstation journeys and temple tours across Tamil Nadu, Kerala, Karnataka & Andhra Pradesh. Premium chauffeur-driven service.",
@@ -25,13 +25,15 @@ export const metadata: Metadata = {
     "outstation taxi Chennai",
     "chauffeur driven Innova Crysta",
     "Innova Crysta rental Chennai",
+    "Innova Crysta Taxi from Chennai",
+    "Innova Crysta Taxi for Tours"
   ],
   openGraph: {
-    title: "Innova Crysta Taxi in Chennai | Magizhunthu Autos & Mobility",
+    title: "Innova Crysta Taxi in Chennai | Magizhunthu Mobility",
     description:
       "Premium chauffeur-driven Innova Crysta taxi for local, outstation and temple tour travel from Chennai.",
     url: "https://www.magizhunthumobility.com",
-    siteName: "Magizhunthu Autos & Mobility",
+    siteName: "Magizhunthu Mobility",
     locale: "en_IN",
     type: "website",
   },
@@ -40,7 +42,7 @@ export const metadata: Metadata = {
 const jsonLd = {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
-  name: "Magizhunthu Autos & Mobility",
+  name: "Magizhunthu Mobility",
   image: "https://www.magizhunthumobility.com/og-image.jpg",
   description:
     "Premium chauffeur-driven Innova Crysta taxi service in Chennai for local, outstation and pilgrimage travel.",
